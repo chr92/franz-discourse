@@ -6,6 +6,9 @@
     "main": "index.js",
     "author": "Christiaan Hendriksen <christiaan.hendriksen@gmail.com>",
     "license": "MIT",
-    "repository": "https://github.com/chr92/franz-discourse"
+    "repository": "https://github.com/chr92/franz-discourse",
+    "config": {
+        "hasCustomUrl": true
+    }
   }
   
