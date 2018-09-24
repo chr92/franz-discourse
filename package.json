@@ -1,0 +1,11 @@
+{
+    "id": "discourse",
+    "name": "discourse",
+    "version": "1.0.0",
+    "description": "Discourse",
+    "main": "index.js",
+    "author": "Christiaan Hendriksen <christiaan.hendriksen@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/chr92/franz-discourse"
+  }
+  
