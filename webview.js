@@ -1,7 +1,6 @@
 module.exports = (Franz) => {
     const getMessages = function getMessages() {
-        // TODO: Figure out correct selecter
-        // const messages = document.querySelectorAll('.hc-mention').length;
+        const messages = parseInt(document.querySelector('.unread-notifications').text);
         Franz.setBadge(messages);
     };
     Franz.loop(getMessages);
